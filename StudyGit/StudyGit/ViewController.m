@@ -19,6 +19,10 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"dev");
+    NSInteger a = 1;
+    NSInteger b = 2;
+    
+    
 }
 
 
