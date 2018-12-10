@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    NSInteger a = 1;
+    NSInteger b = 2;
+    
+    
 }
 
 
